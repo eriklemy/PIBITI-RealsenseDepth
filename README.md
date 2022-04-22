@@ -26,7 +26,7 @@ Seguir as instruções oficiais no link [Instalação Linux](https://github.com/
 ## Windows
 
 O **Intel® RealSense™ SDK 2.0** fornece as ferramentas necessarias para instalação e uso de maneira rapida. Acesse um dos links a seguir para instruções mais completas: 
-- [GitHub Releases](https://github.com/IntelRealSense/librealsense/releases)
+- [Librealsense Releases](https://github.com/IntelRealSense/librealsense/releases)
 - https://github.com/IntelRealSense/librealsense/releases/tag/v2.50.0
 
 Instalando o Viewer já é possivel fazer testes com a câmera, entretanto recomenda-se a instalação do SDK completo.
@@ -64,7 +64,7 @@ Para windows 7 acesso o link a seguir [Librealsense Releases](https://github.com
 
 
 5. Pronto!!
-Agora você pode abrir o `Intel® RealSense™ Samples` e ver alguns exemplos já disponiveis no SD ou executar o `Intel® RealSense™ Viewer`/`Intel® RealSense™ Quality Tool` e começar a realizar seus proprios testes.
+Agora você pode abrir o `Intel® RealSense™ Samples` e ver alguns exemplos já disponiveis no SDK ou executar o `Intel® RealSense™ Viewer`/`Intel® RealSense™ Quality Tool` e começar a realizar seus proprios testes.
 
 ### Requesitos para desenvolvimento Python
 - python 3.6 ou superior <br>
