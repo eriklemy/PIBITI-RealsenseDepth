@@ -67,8 +67,9 @@ Para windows 7 acesso o link a seguir [GitHub Releases](https://github.com/Intel
 Agora você pode abrir o `Intel® RealSense™ Samples` e ver alguns exemplos já disponiveis no SD ou executar o `Intel® RealSense™ Viewer`/`Intel® RealSense™ Quality Tool` e começar a realizar seus proprios testes.
 
 ### Requesitos para desenvolvimento Python
-- python 3.6 ou superior
-Instalar as bibliotecas a seguir com pip:
+- python 3.6 ou superior <br>
+- biblioteca pyrealsense2
+Recomendação - Instalar as bibliotecas com o pip a seguir:
     - pip install numpy
     - pip install open3d
     - pip install Pillow
