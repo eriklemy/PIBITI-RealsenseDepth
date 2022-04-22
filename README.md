@@ -46,7 +46,7 @@ Fonte: librealsense Doc, 2021.
 Para windows 7 acesso o link a seguir [GitHub Releases](https://github.com/IntelRealSense/librealsense/releases) vá até **Assets** e selecione a versão.
 ![instalacao](./img/Instalacao.png)
 
-1.  O Intel® RealSense™ SDK 2.0 é distribuído sob a licença de código aberto permissivo Apache 2.0:
+1.  O Intel® RealSense™ SDK 2.0 é distribuído sob a licença de código aberto:
 
 ![Passo 1](./img/passo_1.png)
 
