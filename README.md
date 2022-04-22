@@ -35,7 +35,7 @@ Instalando o Viewer já é possivel fazer testes com a câmera, entretanto recom
 - Baixe e instale o **Intel.RealSense.Viewer.exe**:
 **Link de Download Direto:** https://github.com/IntelRealSense/librealsense/releases/download/v2.50.0/Intel.RealSense.Viewer.exe
 
-- Neste ponto já é possivel começar a manipular os dados de profundidade:
+- Neste ponto já é possivel começar a manipular os dados de profundidade e visualizar em 2D/3D:
 <img src = "https://github.com/IntelRealSense/librealsense/blob/development/doc/img/windows_viewer_preview.PNG?raw=true">
 Fonte: librealsense Doc, 2021.
 
