@@ -27,8 +27,9 @@ O **Intel® RealSense™ SDK 2.0** fornece as ferramentas necessarias para insta
 - [GitHub Releases](https://github.com/IntelRealSense/librealsense/releases)
 - https://github.com/IntelRealSense/librealsense/releases/tag/v2.50.0
 
-## Intel RealSense Viewer
+Instalando o Viewer já é possivel fazer testes com a câmera, entretanto recomenda-se a instalação do SDK completo.
 
+## Intel RealSense Viewer
 - Baixe e instale o **Intel.RealSense.Viewer.exe**:
 **Link de Download Direto:** https://github.com/IntelRealSense/librealsense/releases/download/v2.50.0/Intel.RealSense.Viewer.exe
 
