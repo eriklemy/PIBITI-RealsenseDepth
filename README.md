@@ -1,6 +1,6 @@
 # PIBITI-RealsenseDepth
 
-A Câmera de Profundidade Intel RealSense D435 usa visão estéreo para calcular a profundidade. A D435 é uma câmera de profundidade alimentada por USB e consiste em um par de sensores de profundidade, sensor RGB e projetor infravermelho. Foi projetada para ser facilmente adicionada em protótipos possuindo obturador de imagem global e amplo campo de visão, a Camera D435 oferece uma percepção de profundidade precisa quando o objeto ou o dispositivo está em movimento, e cobre mais área, minimizando "pontos cegos".
+A Câmera de Profundidade Intel RealSense D435 usa visão estéreo para calcular a profundidade. A D435 é uma câmera de profundidade alimentada por USB e consiste em um par de sensores de profundidade, sensor RGB e projetor infravermelho. Foi projetada para ser facilmente adicionada em protótipos possuindo obturador de imagem global e amplo campo de visão, a Camera D435 oferece uma percepção de profundidade precisa quando o objeto ou o dispositivo está em movimento, e cobre mais área que as versões anteriores.
 
 ### Caracteristicas:
 Captura e Gravação: 
