@@ -1,6 +1,6 @@
 # PIBITI-RealsenseDepth
 
-> A Câmera de Profundidade Intel RealSense D435 usa visão estéreo para calcular a profundidade. A D435 é uma câmera de profundidade alimentada por USB e consiste em um par de sensores de profundidade, sensor RGB e projetor infravermelho. Foi projetada para caber em protótipos possuindo obturador de imagem global e amplo campo de visão, a Camera D435 oferece uma percepção de profundidade precisa quando o objeto ou o dispositivo está em movimento, e cobre mais área, minimizando "pontos cegos".
+A Câmera de Profundidade Intel RealSense D435 usa visão estéreo para calcular a profundidade. A D435 é uma câmera de profundidade alimentada por USB e consiste em um par de sensores de profundidade, sensor RGB e projetor infravermelho. Foi projetada para caber em protótipos possuindo obturador de imagem global e amplo campo de visão, a Camera D435 oferece uma percepção de profundidade precisa quando o objeto ou o dispositivo está em movimento, e cobre mais área, minimizando "pontos cegos".
 
 ### Caracteristicas:
 Captura e Gravação: 
@@ -66,12 +66,12 @@ Agora você pode abrir o `Intel® RealSense™ Samples` e ver alguns exemplos ou
 ### Requesitos para desenvolvimento Python
 - python 3.7 ou superior
 Instalar as bibliotecas a seguir com pip:
->    pip install pyrealsense2
-    pip install numpy
-    pip install matplotlip
-    pip install open3d
-    pip install opencv-python
-    pip install Pillow
+    - pip install pyrealsense2
+    - pip install numpy
+    - pip install matplotlip
+    - pip install open3d
+    - pip install opencv-python
+    - pip install Pillow
 
 ## Codigos de Exemplo Alternativos com a Camera:
 - [Exemplo 1](./src/tracking.py)
