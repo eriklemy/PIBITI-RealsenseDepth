@@ -43,7 +43,7 @@ Fonte: librealsense Doc, 2021.
 * Baixe e execute o **Intel.RealSense.SDK-WINXX-2.50.0.3785.exe**:
 **Link de Download Direto SDK WIN10:** https://github.com/IntelRealSense/librealsense/releases/download/v2.50.0/Intel.RealSense.SDK-WIN10-2.50.0.3785.exe
 
-Para windows 7 acesso o link a seguir [GitHub Releases](https://github.com/IntelRealSense/librealsense/releases) vá até **Assets** e selecione a versão.
+Para windows 7 acesso o link a seguir [Librealsense Releases](https://github.com/IntelRealSense/librealsense/releases) vá até **Assets** e selecione a versão.
 ![instalacao](./img/Instalacao.png)
 
 1.  O Intel® RealSense™ SDK 2.0 é distribuído sob a licença de código aberto:
