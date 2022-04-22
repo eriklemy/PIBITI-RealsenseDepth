@@ -20,6 +20,8 @@ Captura e Gravação:
         Maxima: 3 m.
     
 # Instruções de Instalação 
+## Linux
+Seguir as instruções oficiais no link [Instalação Linux](https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md)
 
 ## Windows
 
@@ -62,7 +64,7 @@ Para windows 7 acesso o link a seguir [GitHub Releases](https://github.com/Intel
 
 
 5. Pronto!!
-Agora você pode abrir o `Intel® RealSense™ Samples` e ver alguns exemplos ou executar o `Intel® RealSense™ Viewer`/`Intel® RealSense™ Quality Tool` e começar a realizar seus proprios testes.
+Agora você pode abrir o `Intel® RealSense™ Samples` e ver alguns exemplos já disponiveis no SD ou executar o `Intel® RealSense™ Viewer`/`Intel® RealSense™ Quality Tool` e começar a realizar seus proprios testes.
 
 ### Requesitos para desenvolvimento Python
 - python 3.6 ou superior
