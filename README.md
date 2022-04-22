@@ -45,19 +45,19 @@ Para windows 7 acesso o link a seguir [GitHub Releases](https://github.com/Intel
 
 1.  O Intel® RealSense™ SDK 2.0 é distribuído sob a licença de código aberto permissivo Apache 2.0:
 
-![Passo 1](./img/passo_1.PNG)
+![Passo 1](./img/passo_1.png)
 
 2.  O SDK já inclui o Viewer e o Quality Tool, além de outros pacotes de ferramentas para desenvolvimento em outras linguagéns de programação:
 
-![Passo 2](./img/passo_2.PNG)
+![Passo 2](./img/passo_2.png)
 
 3. Marque se deseja os shortcuts na Area de Trabalho:
 
-![Passo 3](./img/passo_3.PNG)
+![Passo 3](./img/passo_3.png)
 
 4. Confira se esta tudo certo e clique em Instalar e aguarde o termino:
 
-![Passo 4](./img/passo_4.PNG)
+![Passo 4](./img/passo_4.png)
 
 
 5. Pronto!!
