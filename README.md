@@ -1,6 +1,6 @@
 # PIBITI-RealsenseDepth
 
-A Câmera de Profundidade Intel RealSense D435 usa visão estéreo para calcular a profundidade. A D435 é uma câmera de profundidade alimentada por USB e consiste em um par de sensores de profundidade, sensor RGB e projetor infravermelho. Foi projetada para caber em protótipos possuindo obturador de imagem global e amplo campo de visão, a Camera D435 oferece uma percepção de profundidade precisa quando o objeto ou o dispositivo está em movimento, e cobre mais área, minimizando "pontos cegos".
+A Câmera de Profundidade Intel RealSense D435 usa visão estéreo para calcular a profundidade. A D435 é uma câmera de profundidade alimentada por USB e consiste em um par de sensores de profundidade, sensor RGB e projetor infravermelho. Foi projetada para ser facilmente adicionada em protótipos possuindo obturador de imagem global e amplo campo de visão, a Camera D435 oferece uma percepção de profundidade precisa quando o objeto ou o dispositivo está em movimento, e cobre mais área, minimizando "pontos cegos".
 
 ### Caracteristicas:
 Captura e Gravação: 
@@ -64,16 +64,16 @@ Para windows 7 acesso o link a seguir [GitHub Releases](https://github.com/Intel
 Agora você pode abrir o `Intel® RealSense™ Samples` e ver alguns exemplos ou executar o `Intel® RealSense™ Viewer`/`Intel® RealSense™ Quality Tool` e começar a realizar seus proprios testes.
 
 ### Requesitos para desenvolvimento Python
-- python 3.7 ou superior
+- python 3.6 ou superior
 Instalar as bibliotecas a seguir com pip:
-    - pip install pyrealsense2
     - pip install numpy
-    - pip install matplotlip
     - pip install open3d
-    - pip install opencv-python
     - pip install Pillow
+    - pip install matplotlip
+    - pip install pyrealsense2
+    - pip install opencv-python
 
 ## Codigos de Exemplo Alternativos com a Camera:
-- [Exemplo 1](./src/tracking.py)
-- [COLOCAR 2](./src/tracking.py)
-- [COLOCAR 3](./src/tracking.py)
+- [TODO: ADICIONAR 1](./src/tracking.py)
+- [TODO: ADICIONAR 2](./src/tracking.py)
+- [TODO: ADICIONAR 3](./src/tracking.py)
