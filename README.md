@@ -78,6 +78,6 @@ Recomendação - Instalar as bibliotecas com o pip a seguir:
     - pip install opencv-python
 
 ## Codigos de Exemplo Alternativos com a Camera:
-- [TODO: ADICIONAR 1](./src/tracking.py)
-- [TODO: ADICIONAR 2](./src/tracking.py)
-- [TODO: ADICIONAR 3](./src/tracking.py)
+- [Exemplo 1: Tracking](./src/tracking.py)
+- [Exemplo 2: Realsense python](./src/example_realsense.py)
+- [Exemplo 3: calibração](./src/tracking.py)
