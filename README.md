@@ -80,4 +80,4 @@ Recomendação - Instalar as bibliotecas com o pip a seguir:
 ## Codigos de Exemplo Alternativos com a Camera:
 - [Exemplo 1: Tracking](./src/tracking.py)
 - [Exemplo 2: Realsense python](./src/example_realsense.py)
-- [Exemplo 3: calibração](./src/tracking.py)
+- [Exemplo 3: Calibração](./src/realsense_auto_calib.py)
